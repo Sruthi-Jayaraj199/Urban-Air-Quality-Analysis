@@ -15,7 +15,11 @@ This project includes workflows and visualizations of ambient air quality trends
 
 ## 📈 Sample Outputs
 
+![PM2.5 Trend](./outputs/PM25_Trend.png)
 
+![PM10 Seasonal Pattern](./outputs/PM10_Seasonal.png)
+
+![Diurnal Average](./outputs/Diurnal_Average.png)
 
 ## 📝 Notes
 
