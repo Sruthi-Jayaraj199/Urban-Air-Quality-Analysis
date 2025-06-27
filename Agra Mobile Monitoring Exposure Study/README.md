@@ -22,7 +22,7 @@ This project documents exposure monitoring campaigns conducted to analyze PM₂.
 
 ### PM Data Analysis Workflow
 
-<img src=".Outputs/Data preprocessing.png" width="650"/>
+<img src="./Outputs/Data preprocessing.png" width="650"/>
 
 - Raw data cleaning and time-zone standardization
 - Merging of GPS and pollutant data using ±2 seconds logic
@@ -31,16 +31,16 @@ This project documents exposure monitoring campaigns conducted to analyze PM₂.
 
 ### GPS Interpolation Logic
 
-<img src=".Outputs/Methodology.png" width="600"/>
+<img src="./Outputs/Methodology.png" width="600"/>
 
 ---
 
 ## 📊 Sample Outputs
 
 <p align="center">
-  <img src=".Outputs/PM10 monitoring.png" width="400"/>
-  <img src=".Outputs/PM2.5 monitoring.png" width="400"/>
-  <img src=".Outputs/CO monitoring.png" width="400"/>
+  <img src="./Outputs/PM10 monitoring.png" width="400"/>
+  <img src="./Outputs/PM2.5 monitoring.png" width="400"/>
+  <img src="./Outputs/CO monitoring.png" width="400"/>
 </p>
 
 ---
